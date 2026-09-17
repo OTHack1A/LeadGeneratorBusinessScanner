@@ -1,6 +1,6 @@
 # Contributing to 0T-LeadRadar
 
-Thank you for your interest in contributing to **0T-LeadRadar**!
+Thank you for your interest in contributing to **0THack1A**!
 
 ## Bug Reporting
 When opening an issue for a bug, please ensure you include:
